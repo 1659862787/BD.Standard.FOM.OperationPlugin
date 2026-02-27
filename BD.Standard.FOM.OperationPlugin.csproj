@@ -7,8 +7,8 @@
     <ProjectGuid>{D6692168-9439-4F87-B7DF-34C2E540AD12}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>BD.Standard.OFM.OperationPlugin</RootNamespace>
-    <AssemblyName>BD.Standard.OFM.OperationPlugin</AssemblyName>
+    <RootNamespace>BD.Standard.FOM.OperationPlugin</RootNamespace>
+    <AssemblyName>BD.Standard.FOM.OperationPlugin</AssemblyName>
     <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
